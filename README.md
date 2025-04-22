@@ -16,8 +16,7 @@ I'm a self-taught cybersecurity enthusiast with a focus on **penetration testing
 
 ## 🚀 Current Projects
 - **[Project 1 : OWASP Juice Shop Vulnerability Assessment]**: Conducted a comprehensive security assessment identifying 9 vulnerabilities: 2 Critical, 4 High, and 3 Medium severity.
-- Report available : https://github.com/king0fdarkness/juice-shop-vulnerability-report
-  
+- Report available : https://github.com/king0fdarkness/juice-shop-vulnerability-report <br>
 - **[Project 2]**: Another active project (e.g., Pentesting writeups, tools like a subdomain enumeration tool)
 
 ## 📚 Writeups & Challenges
