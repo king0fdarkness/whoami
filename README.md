@@ -21,8 +21,7 @@ I'm a self-taught cybersecurity enthusiast with a focus on **penetration testing
 ## 📚 Writeups & Challenges
 Here you'll find writeups from my **CTF challenges**, **Penetration Testing assessments**, and **vulnerability research**.
 
-- **[Link to Writeup 1]**
-- **[Link to Writeup 2]**
+- **[Medium](https://medium.com/@k1ng0fd4rkn3ss)**
 
 ## 🌐 Contact
 - Feel free to **[open an issue](https://github.com/k1ng0fd4rkn3ss/issues)** for any questions or discussions.
