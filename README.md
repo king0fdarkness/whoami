@@ -16,7 +16,7 @@ I'm a self-taught cybersecurity enthusiast with a focus on **penetration testing
 
 ## 🚀 Current Projects
 - **[Project 1 : OWASP Juice Shop Vulnerability Assessment](https://github.com/king0fdarkness/juice-shop-vulnerability-report/blob/main/juice-shop-vulnerability-report.md)** : Conducted a comprehensive security assessment identifying 9 vulnerabilities: 2 Critical, 4 High, and 3 Medium severity.
-- **[Project 2]**: Another active project (e.g., Pentesting writeups, tools like a subdomain enumeration tool)
+- **[Project 2 : Wireshark Packet Analysis](https://github.com/king0fdarkness/PCAP-Threat-Analysis-Lab/blob/main/PCAP-Threat-Analysis.md)**: Analyzed 10 PCAP files using Wireshark and Snort to detect network threats, OS fingerprints, and protocol behavior.
 
 ## 📚 Writeups & Challenges
 Here you'll find writeups from my **CTF challenges**, **Penetration Testing assessments**, and **vulnerability research**.
